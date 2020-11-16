@@ -1,2 +1,2 @@
 # react-quote-viewer
-It's react component for displaying quote(good phrase, bible quote... etc) 
+It's react components for displaying quote(good phrase(s), bible quote(s)... etc) 
